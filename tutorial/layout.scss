@@ -1,0 +1,21 @@
+@import "./variables";
+
+.components {
+    font-family: Arial, sans-serif;
+}
+
+.crane-header{
+    display: flex;
+    align-items: center;
+
+    background-color: $crane-primary-color;
+    color: #fff;
+    font-size: 1.2rem;
+
+    height: 4rem;
+    padding-left: $crane-main-padding * 2;
+
+    @media(max-width: $crane-header-breakpoint){
+        padding-left: $crane-main-padding;
+    }
+}

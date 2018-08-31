@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c520a6a9-c27c-4806-97de-7887764640b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lite/mdl-ext/demo/lightvox.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelabs/mdc-101/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/codelabs/mdc-101/starter/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelabs/mdc-101/starter/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/codelabs/mdc-101/starter/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelabs/mdc-101/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/codelabs/mdc-101/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codelabs/mdc-111/starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/codelabs/mdc-111/starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/demos/package-lock.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1799329821">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="4" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="17" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="6" />
+          <entry key="md" value="1" />
+          <entry key="png" value="4" />
+          <entry key="scss" value="2" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="17" />
+          <entry key="Image" value="5" />
+          <entry key="JavaScript" value="6" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SCSS" value="2" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="JavaScript Console" value="7" />
+          <entry key="css" value="7" />
+          <entry key="gitignore" value="4" />
+          <entry key="html" value="4641" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="7" />
+          <entry key="HTML" value="4641" />
+          <entry key="JavaScript" value="7" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lite/mdl-ext/demo/lightvox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1168">
+              <caret line="169" column="12" lean-forward="true" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
+              <folding>
+                <element signature="e#6282#6286#0" expanded="true" />
+                <element signature="e#6292#6296#0" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#p#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#23899#23905#0" expanded="true" />
+                <element signature="e#24063#25843#0" />
+                <element signature="n#style#0;n#div#0;n#figure#0;n#div#0;n#dialog#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lite/mdl-ext/lib/mdl-ext.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4200" column="32" lean-forward="true" selection-start-line="4200" selection-start-column="32" selection-end-line="4200" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lite/mdl-ext/src/lightbox/lightbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="218" column="42" lean-forward="true" selection-start-line="218" selection-start-column="42" selection-end-line="218" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mdl-ext-eqjs.min.css</find>
+      <find>title</find>
+      <find>.js</find>
+      <find>&lt;script defer src=&quot;https://code.getmdl.io/1.3.0/material.min.js&quot;&gt;&lt;/script&gt;</find>
+      <find>a ligs</find>
+      <find>./images</find>
+      <find>a lightbox dis</find>
+      <find>scripts/</find>
+      <find>south afric</find>
+      <find>https://img.youtube.com/vi/&lt;insert-youtube-video-id-here&gt;/0.jpg</find>
+      <find>./images/</find>
+      <find>_D802141</find>
+      <find>https://img.youtube.com/vi/S3Tj3UcTFz8/0.jpg</find>
+      <find>phones</find>
+      <find>android-search-box</find>
+      <find>android-navigation-container</find>
+      <find>search</find>
+      <find>more</find>
+      <find>order:</find>
+      <find>mdl-layout--fixed-drawer</find>
+      <find>showImage</find>
+      <find>lightbox</find>
+      <find>#lightbox</find>
+      <find>img</find>
+      <find>Video Tutorial 1</find>
+      <find>_D800464.jpg</find>
+      <find>showimage</find>
+      <find>slideImg</find>
+      <find>data-img-url</find>
+      <find>data-img-url-prev</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>mdl-ext/demo/images/</replace>
+      <replace>Video Tutorial 2</replace>
+      <replace>_D803465-3.jpg</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android/styles.css" />
+        <option value="$PROJECT_DIR$/android/index.html" />
+        <option value="$PROJECT_DIR$/lite/index.html" />
+        <option value="$PROJECT_DIR$/tutorial/app.scss" />
+        <option value="$PROJECT_DIR$/start/css/test.css" />
+        <option value="$PROJECT_DIR$/start/index.html" />
+        <option value="$PROJECT_DIR$/start/test.html" />
+        <option value="$PROJECT_DIR$/lite/mdl-ext/demo/lightbox.html" />
+        <option value="$PROJECT_DIR$/lite/mdl-ext/demo/lightvox.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/codelabs/mdc-101/starter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/codelabs/mdc-111/starter/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/material-components-web/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-button/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-card/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-checkbox/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-chips/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-dialog/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-drawer/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-elevation/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-fab/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-floating-label/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-form-field/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-grid-list/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-icon-button/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-icon-toggle/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-image-list/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-line-ripple/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-linear-progress/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-list/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-menu-surface/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-menu/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-notched-outline/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-radio/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-ripple/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-select/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-selection-control/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-slider/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-snackbar/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-switch/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-tab-bar/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-tab-indicator/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-tab-scroller/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-tab/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-tabs/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-textfield/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-toolbar/node_modules" />
+    <handled-path value="$PROJECT_DIR$/demos/packages/mdc-top-app-bar/node_modules" />
+    <handled-path value="$PROJECT_DIR$/tutorial/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/codelabs/mdc-101/complete/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-101/starter/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-102/complete/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-102/starter/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-103/complete/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-103/starter/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-111/complete/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-111/starter/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-112/complete/package.json" />
+      <path value="$PROJECT_DIR$/codelabs/mdc-112/starter/package.json" />
+      <path value="$PROJECT_DIR$/demos/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/material-components-web/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-animation/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-auto-init/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-base/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-button/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-card/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-checkbox/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-chips/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-dialog/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-drawer/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-elevation/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-fab/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-floating-label/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-form-field/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-grid-list/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-icon-button/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-icon-toggle/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-image-list/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-layout-grid/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-line-ripple/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-linear-progress/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-list/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-menu-surface/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-menu/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-notched-outline/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-radio/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-ripple/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-rtl/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-select/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-selection-control/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-shape/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-slider/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-snackbar/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-switch/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-tab-bar/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-tab-indicator/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-tab-scroller/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-tab/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-tabs/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-textfield/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-theme/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-toolbar/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-top-app-bar/package.json" />
+      <path value="$PROJECT_DIR$/demos/packages/mdc-typography/package.json" />
+      <path value="$PROJECT_DIR$/lite/mdl-ext/example-webpack/package.json" />
+      <path value="$PROJECT_DIR$/lite/mdl-ext/package.json" />
+      <path value="$PROJECT_DIR$/tutorial/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1920" />
+    <option name="width" value="1920" />
+    <option name="height" value="2136" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="material_design_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="material_design_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="material_design_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="material_design_test" type="462c0819:PsiDirectoryNode" />
+              <item name="tutorial" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/demos/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/start/img" />
+      <recent name="$PROJECT_DIR$/start" />
+      <recent name="$PROJECT_DIR$/lite/mdl-ext/demo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Unnamed" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/material_design_test/start/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Node.js/Chrome.Unnamed" />
+      <item itemvalue="Firefox Remote.Unnamed" />
+      <item itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c520a6a9-c27c-4806-97de-7887764640b8" name="Default Changelist" comment="" />
+      <created>1535586318295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535586318295</updated>
+      <workItem from="1535586319592" duration="773000" />
+      <workItem from="1535649273204" duration="74000" />
+      <workItem from="1535649358607" duration="595000" />
+      <workItem from="1535649959412" duration="50000" />
+      <workItem from="1535650014825" duration="3188000" />
+      <workItem from="1535653404504" duration="8432000" />
+      <workItem from="1535666297348" duration="272000" />
+      <workItem from="1535666610510" duration="496000" />
+      <workItem from="1535667127589" duration="1259000" />
+      <workItem from="1535668412500" duration="6609000" />
+      <workItem from="1535731983198" duration="33000" />
+      <workItem from="1535732781917" duration="10839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32620000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="0" width="1920" height="2136" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19957082" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32997987" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3998994" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21981892" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/demos/node_modules/karma/config.tpl.js" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../websitefrontendsource/static/assets/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../websitefrontendsource/static/assets/ios-desktop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../websitefrontendsource/static/assets/welcome_card.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../websitefrontendsource/static/assets/android-desktop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/demo/styles/dialog-polyfill.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/js/material.min.js" />
+    <entry file="file://$PROJECT_DIR$/demos/demos/layout-grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android_practice/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="82" column="12" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/css/material.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/js/material.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codelabs/mdc-103/starter/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="65" column="1" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="103" column="4" lean-forward="true" selection-start-line="103" selection-start-column="4" selection-end-line="105" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tutorial/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/css/test.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="30" lean-forward="true" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="74" column="13" selection-start-line="74" selection-start-column="13" selection-end-line="74" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="5900" column="4" selection-start-line="5900" selection-start-column="4" selection-end-line="5900" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/src/lightbox/snippets/lightbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="520" column="24" selection-start-line="520" selection-start-column="24" selection-end-line="520" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/src/lightbox/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="486">
+            <caret line="254" column="30" selection-start-line="254" selection-start-column="18" selection-end-line="254" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/lib/mdl-ext.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4200" column="32" lean-forward="true" selection-start-line="4200" selection-start-column="32" selection-end-line="4200" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/lib/mdl-ext.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/src/lightbox/lightbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="218" column="42" lean-forward="true" selection-start-line="218" selection-start-column="42" selection-end-line="218" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/demo/lightbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1271">
+          <caret line="695" column="9" lean-forward="true" selection-start-line="695" selection-start-column="9" selection-end-line="695" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lite/mdl-ext/demo/lightvox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1168">
+          <caret line="169" column="12" lean-forward="true" selection-start-line="169" selection-start-column="12" selection-end-line="169" selection-end-column="12" />
+          <folding>
+            <element signature="e#6282#6286#0" expanded="true" />
+            <element signature="e#6292#6296#0" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#p#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#23899#23905#0" expanded="true" />
+            <element signature="e#24063#25843#0" />
+            <element signature="n#style#0;n#div#0;n#figure#0;n#div#0;n#dialog#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
